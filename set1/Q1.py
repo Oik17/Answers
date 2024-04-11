@@ -4,6 +4,7 @@ no odd numbers are entered, it should print the sum of the digits of the 5th inp
 number. If no even numbers are entered, it should print the digit count of the 5th
 input number."""
 
+"Extra comments added by yash to merge into this code."
 
 fifth = sum = count = odd = even = 0
 flag1 = flag2 = False
